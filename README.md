@@ -1,7 +1,7 @@
-#🌍 Natours – Tour Booking Web App
+## 🌍 Natours – Tour Booking Web App
 Natours is a full-featured tour booking website built with Node.js, Express, MongoDB, and Pug. It includes user authentication, role-based access control, secure payment integration with Stripe, user reviews, and admin-level tour and booking management.
 
-#🔑 Key Features
+## 🔑 Key Features
 Full authentication & authorization (user roles: admin, guide, user)
 
 Tour management: create, update, delete, and view tours
@@ -16,7 +16,7 @@ API-first design with Postman documentation
 
 Admin dashboard with booking & user management
 
-#🛠️ Built With
+## 🛠️ Built With
 Node.js, Express, MongoDB (Mongoose)
 
 Pug templating engine
@@ -27,9 +27,7 @@ Mapbox for tour locations
 
 Mailtrap & SendGrid for email handling
 
-Heroku & Render for deployment
-
-#📦 Local Setup
+## 📦 Local Setup
 Clone the repo, install dependencies with npm i, set environment variables, and start the server with npm run dev.
 
 #📘 More
