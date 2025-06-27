@@ -31,6 +31,6 @@ Mailtrap & SendGrid for email handling
 Clone the repo, install dependencies with npm i, set environment variables, and start the server with npm run dev.
 
 ## 📘 More
-Full Postman API Docs: Natours API
+Full Postman API Docs: [Natours API](https://documenter.getpostman.com/view/8893042/SW7c37V6)
 
 Based on the course by Jonas Schmedtmann
